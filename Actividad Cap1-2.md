@@ -1,5 +1,95 @@
 //Tus resputas del capitulo 1
 
+Preguntas de lectura: Capítulo 1
+1.Listar al menos 5 actividades cotidianas que realiza usted utilizando internet.
+
+Llamar 
+Jugar en linea
+Estudiar
+Pagar cuentas
+Netflix
+
+2. Describir los factores que afectan la calidad de las comunicaciones.
+   
+  Externos: 
+Calidad de la ruta entre emisor receptor
+Cantidad de veces en las que el mensaje cambia de forma
+Cantidad de veces que el mensaje debe ser redireccionado o redirigido
+Cantidad de mensajes que se transmiten simultáneamente en la red de comunicación
+Cantidad de tiempo asignado para una comunicación exitosa
+
+  Internos:
+Tamaño del paquete
+Complejidad del mensaje
+Importancia del mensaje
+
+4. Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Responda con sus propias palabras:
+
+  A. ¿Qué son los datos?
+son información que pueden ser procesadas o interpretada
+
+  B. ¿Qué es una red de datos?
+Una red de datos es una infraestructura que permite la comunicación y el intercambio de información entre diferentes dispositivos
+
+  C. ¿Qué entiende por arquitectura de red?
+es el diseño y la estructura de una red de datos
+
+  D. ¿Qué es una red convergente?
+es una red que integra múltiples tipos de tráfico de datos, como voz, video y datos, en una sola infraestructura de red
+
+5. Describir las características de las arquitecturas de red
+   
+   Tolerante a fallas, Capacidad de la red para mantener la conectividad y el funcionamiento incluso en caso de fallos o interrupciones
+   
+   Escalabilidad, Capacidad de la red para crecer y adaptarse a medida que aumenta la demanda de recursos y usuarios.
+
+   Calidad del servicio, proporciona un nivel adecuado de rendimiento y fiabilidad
+
+   Seguridad. Mostrar sus respectivos ejemplos. protege los datos y los recursos como el acceso no autorizado, 
+
+6. Investigar qué son las redes orientadas y no orientadas a la conexión.
+   
+las redes orientadas a la conexión requieren que se establezca una conexión previa entre los dispositivos antes de la transmisión de datos y las no orientadas a la conexión no requieren una conexión establecida antes de transmitir datos
+
+7. Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+    
+La calidad del servicio se refiere a la capacidad de una red para proporcionar servicios seguros, predecibles, mensurables y garantizados
+
+8. ¿Por qué importa la calidad del servicio en una red de datos?
+    
+Es importante porque asegura que los datos se transmitan de manera confiable y oportuna, lo que garantiza una experiencia de usuario satisfactoria y la eficacia de las aplicaciones y servicios que dependen de la red
+
+9. Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+
+  Proveedores de Internet de Nivel-1 (Tier-1):
+Infraestructura: Los proveedores de Nivel-1 poseen una infraestructura global de redes que les permite alcanzar la mayoría de los destinos en Internet sin depender de otros proveedores para acceder a ellos. Tienen una red troncal mundial propia y extensa.
+Alcance: Tienen un alcance global y pueden intercambiar tráfico directamente entre sí sin pasar por otros proveedores.
+Relaciones comerciales: Los proveedores de Nivel-1 suelen intercambiar tráfico de manera gratuita o a través de acuerdos de peering mutuo. Esto significa que no pagan a otros proveedores por el tráfico que envían o reciben.
+
+Proveedores de Internet de Nivel-2 (Tier-2):
+Infraestructura: Los proveedores de Nivel-2 no poseen una red troncal global propia. En cambio, compran acceso a Internet a los proveedores de Nivel-1 para proporcionar conectividad a sus clientes y otros proveedores de nivel inferior.
+Alcance: Su alcance puede ser regional o nacional, dependiendo de la extensión de su infraestructura y acuerdos de peering.
+Relaciones comerciales: Los proveedores de Nivel-2 pueden pagar a los proveedores de Nivel-1 por el tráfico que envían a través de sus redes. También pueden intercambiar tráfico de forma gratuita con otros proveedores de Nivel-2 a través de acuerdos de peering mutuo.
+
+10. Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+
+AT&T es considerado un proveedor de Nivel-1 debido a su extensa infraestructura de red global
+
+Verizon es otro ejemplo de un proveedor de Nivel-1 debido a su infraestructura de red global y su capacidad para alcanzar la mayoría de los destinos en Internet sin depender de otros proveedores.
+
+Proveedores de internet en colombia: Claro y movistar
+
+11. Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet.
+    
+son los principales facilitadores de la conectividad global al proporcionar las redes de infraestructura necesarias para interconectar regiones, países y continentes.
+
+Los proveedores de Nivel-1 poseen redes troncales globales que forman la columna vertebral de Internet. Estas redes de alta capacidad y baja latencia permiten el intercambio de datos a larga distancia de manera eficiente.
+
+Los proveedores de Nivel-2 actúan como enlaces entre los proveedores de Nivel-1 y los usuarios finales. Compran ancho de banda a los proveedores de Nivel-1 y lo distribuyen a través de redes regionales y locales.
+
+
+
 Preguntas de lectura: Capítulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
