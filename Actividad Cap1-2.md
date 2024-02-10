@@ -1,3 +1,5 @@
+//Tus resputas del capitulo 1
+
 Preguntas de lectura: Capítulo 2
 
 1. Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas.
